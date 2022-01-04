@@ -1,4 +1,4 @@
-# CS229_FinalProject_Nigeria
+# CS229 Final Project
 
 This repo contains the code for _A Supervised Learning Approach to Predicting Regional Maternal Mortality Risk in Nigeria_
 
